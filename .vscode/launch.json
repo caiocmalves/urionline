@@ -1,0 +1,511 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch uri1158",
+            "request": "launch",
+            "mainClass": "uri1158",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1146",
+            "request": "launch",
+            "mainClass": "uri1146",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1145",
+            "request": "launch",
+            "mainClass": "uri1145",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1144",
+            "request": "launch",
+            "mainClass": "uri1144",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1143",
+            "request": "launch",
+            "mainClass": "uri1143",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1142",
+            "request": "launch",
+            "mainClass": "uri1142",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1094",
+            "request": "launch",
+            "mainClass": "uri1094",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1157",
+            "request": "launch",
+            "mainClass": "uri1157",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1153",
+            "request": "launch",
+            "mainClass": "uri1153",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1132",
+            "request": "launch",
+            "mainClass": "uri1132",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1000",
+            "request": "launch",
+            "mainClass": "uri1000",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1001",
+            "request": "launch",
+            "mainClass": "uri1001",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1002",
+            "request": "launch",
+            "mainClass": "uri1002",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1003",
+            "request": "launch",
+            "mainClass": "uri1003",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1004",
+            "request": "launch",
+            "mainClass": "uri1004",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1005",
+            "request": "launch",
+            "mainClass": "uri1005",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1006",
+            "request": "launch",
+            "mainClass": "uri1006",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1007",
+            "request": "launch",
+            "mainClass": "uri1007",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1008",
+            "request": "launch",
+            "mainClass": "uri1008",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1009",
+            "request": "launch",
+            "mainClass": "uri1009",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1010",
+            "request": "launch",
+            "mainClass": "uri1010",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1011",
+            "request": "launch",
+            "mainClass": "uri1011",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1012",
+            "request": "launch",
+            "mainClass": "uri1012",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1013",
+            "request": "launch",
+            "mainClass": "uri1013",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1014",
+            "request": "launch",
+            "mainClass": "uri1014",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1015",
+            "request": "launch",
+            "mainClass": "uri1015",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1016",
+            "request": "launch",
+            "mainClass": "uri1016",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1017",
+            "request": "launch",
+            "mainClass": "uri1017",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1018",
+            "request": "launch",
+            "mainClass": "uri1018",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1019",
+            "request": "launch",
+            "mainClass": "uri1019",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1020",
+            "request": "launch",
+            "mainClass": "uri1020",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1021",
+            "request": "launch",
+            "mainClass": "uri1021",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1035",
+            "request": "launch",
+            "mainClass": "uri1035",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1036",
+            "request": "launch",
+            "mainClass": "uri1036",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1037",
+            "request": "launch",
+            "mainClass": "uri1037",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1038",
+            "request": "launch",
+            "mainClass": "uri1038",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1040",
+            "request": "launch",
+            "mainClass": "uri1040",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1041",
+            "request": "launch",
+            "mainClass": "uri1041",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1042",
+            "request": "launch",
+            "mainClass": "uri1042",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1044",
+            "request": "launch",
+            "mainClass": "uri1044",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1045",
+            "request": "launch",
+            "mainClass": "uri1045",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1046",
+            "request": "launch",
+            "mainClass": "uri1046",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1047",
+            "request": "launch",
+            "mainClass": "uri1047",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1048",
+            "request": "launch",
+            "mainClass": "uri1048",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1049",
+            "request": "launch",
+            "mainClass": "uri1049",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1050",
+            "request": "launch",
+            "mainClass": "uri1050",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1051",
+            "request": "launch",
+            "mainClass": "uri1051",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1052",
+            "request": "launch",
+            "mainClass": "uri1052",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1060",
+            "request": "launch",
+            "mainClass": "uri1060",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1061",
+            "request": "launch",
+            "mainClass": "uri1061",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1064",
+            "request": "launch",
+            "mainClass": "uri1064",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1065",
+            "request": "launch",
+            "mainClass": "uri1065",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1066",
+            "request": "launch",
+            "mainClass": "uri1066",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1067",
+            "request": "launch",
+            "mainClass": "uri1067",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1070",
+            "request": "launch",
+            "mainClass": "uri1070",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1071",
+            "request": "launch",
+            "mainClass": "uri1071",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1072",
+            "request": "launch",
+            "mainClass": "uri1072",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1074",
+            "request": "launch",
+            "mainClass": "uri1074",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1078",
+            "request": "launch",
+            "mainClass": "uri1078",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1079",
+            "request": "launch",
+            "mainClass": "uri1079",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1113",
+            "request": "launch",
+            "mainClass": "uri1113",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1114",
+            "request": "launch",
+            "mainClass": "uri1114",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1115",
+            "request": "launch",
+            "mainClass": "uri1115",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1116",
+            "request": "launch",
+            "mainClass": "uri1116",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1117",
+            "request": "launch",
+            "mainClass": "uri1117",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1118",
+            "request": "launch",
+            "mainClass": "uri1118",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1131",
+            "request": "launch",
+            "mainClass": "uri1131",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1134",
+            "request": "launch",
+            "mainClass": "uri1134",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1154",
+            "request": "launch",
+            "mainClass": "uri1154",
+            "projectName": "urionline_d440474d"
+        },
+        {
+            "type": "java",
+            "name": "Launch uri1159",
+            "request": "launch",
+            "mainClass": "uri1159",
+            "projectName": "urionline_d440474d"
+        }
+    ]
+}
